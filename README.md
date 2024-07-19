@@ -1,8 +1,6 @@
-# # Flo Rockets
+ # Flo Rockets
 
 This repository contains the source code for a responsive, light-dark themed website built using **HTML**, **Tailwind CSS**, and **JavaScript**.
-
-![](https://github.com/florinmitrana/ResponsiveSiteTailwindCSS/blob/main/2024-07-19%2011.10.33.gif)
 
 ## Features
 
